@@ -1,0 +1,80 @@
+h1 {
+    font-size: 45px;
+    text-align: center;
+    color:yellowgreen;
+}
+#hdmg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1880px;
+}
+img + p {
+    color: yellowgreen;
+    font-size: large;
+    font-style: italic;
+    font-size: 21px;
+}
+article {
+    font-size: 30px;
+}
+em {
+    font-size: 28px;
+    color: cornflowerblue;
+}
+#rick {
+    font-size: 40px;
+    color: cornflowerblue;
+}
+.ricky {
+    float: left;
+    margin: 0 1em 1em 0;
+}
+.art {
+    font-size: 30px;
+}
+#morty {
+    font-size: 40px;
+    color:rgba(197, 209, 28, 0.801);
+}
+.morty {
+    float: left;
+    margin: 0 1em 1em 0;
+}
+#jerry1 {
+    font-size: 40px;
+    color: saddlebrown ;
+}
+#jerry2 {
+    font-size: 40px;
+    color: wheat;
+}
+.jerry {
+    float: left;
+    margin: 0 1em 1em 0;
+}  
+#beth {
+    font-size: 40px;
+    color:rgba(255, 0, 0, 0.767);
+}
+.beth {
+    float: left;
+    margin: 0 1em 1em 0;
+}
+#summer {
+    font-size: 40px;
+    color:sandybrown;
+}
+.summer {
+    float: left;
+    margin: 0 1em 1em 0;
+}
+#cont {
+    font-size:60px;
+    text-align: left;
+}
+li {
+    font-size: 30px;
+    color: yellowgreen;
+
+}
